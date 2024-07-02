@@ -1,0 +1,1 @@
+savedcmd_/home/embeddedmaster/Desktop/Linux_Device_Drivers/Modules/Hello_World/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/embeddedmaster/Desktop/Linux_Device_Drivers/Modules/Hello_World/Module.symvers -T /home/embeddedmaster/Desktop/Linux_Device_Drivers/Modules/Hello_World/modules.order -i Module.symvers -e 
